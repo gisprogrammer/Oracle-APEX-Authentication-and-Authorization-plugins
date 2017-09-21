@@ -7,7 +7,7 @@
 ## How it works
 ### LDAP_Authentication_Plugin 
 * connects to the LDAP server
-* getting users groups list
+* getting user groups list
 * store it as a list in LDAP_GROUPS table 
 ### LDAP_Group_Authorization_Plugin
 * gets user from LDAP_GROUPS table
